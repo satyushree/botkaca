@@ -1,5 +1,4 @@
 tgcrypto
-aria2p
 aiohttp
 aria2p==0.9.1
 hachoir
