@@ -1,8 +1,4 @@
 tgcrypto
 aiohttp
-aria2p==0.9.1
-hachoir
-Pillow
+aria2p
 pyrogram
-youtube_dl==2020.11.12
-hurry.filesize
